@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @popescumadalin0
 - 👀 I’m interested in programing
-- 🌱 I’m currently learning WEB Development
+- 🌱 I’m currently learning FullStack Development
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me: Instagram: popescu.madalin0
 
